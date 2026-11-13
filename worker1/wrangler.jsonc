@@ -1,5 +1,5 @@
 {
-  "name": "moj-prvi-repo/worker1",
+  "name": "moj-prvi-repo",
   "main": "worker.js",
   "compatibility_date": "2026-11-09"
 }
